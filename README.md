@@ -12,6 +12,10 @@ A rotating LiDAR does not capture the whole frame at one instant.
 
 Instead, it sends out laser rays one by one while the sensor is rotating:
 
+![Visualization of lidar distortion, from Autoware Universe Documentation](image-1.png)
+
+Visualization of lidar distortion, from [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/sensing/autoware_pointcloud_preprocessor/docs/distortion-corrector/)
+
 ```text
 ray 1   -> measured at t0
 ray 2   -> measured slightly later
