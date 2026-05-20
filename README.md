@@ -2,7 +2,7 @@
 
 This is a small tutorial for understanding LiDAR motion distortion and motion compensation.
 
-Open the `index.html` or `https://lidar-motion-compensation-visulizat.vercel.app/` have fun!
+Open the `index.html` locally or [Online website](https://lidar-motion-compensation-visulizat.vercel.app/) have fun!
 
 ![Web Demo](image.png)
 
